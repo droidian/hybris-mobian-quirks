@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Lomiri appid URL Handler
+Exec=/usr/bin/lomiri-handler-appid %u
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/appid
+OnlyShowIn=Unity;

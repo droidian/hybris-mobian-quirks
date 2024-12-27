@@ -134,6 +134,11 @@ Description: Quirk to set hostname at first boot
  This package provides a quirk that sets the device hostname
  at first boot.
 
+Package: droidian-quirks-lomiri
+Architecture: all
+Depends: xdg-utils
+Description: Quirk to handle lomiri URIs.
+
 Package: droidian-quirks-keyring
 Architecture: all
 Pre-Depends: runonce,

@@ -1,0 +1,4 @@
+#!/bin/bash
+if echo "$1" | grep -q gallery.ubports; then
+	lomiri-gallery-app
+fi

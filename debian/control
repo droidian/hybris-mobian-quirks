@@ -161,6 +161,11 @@ Description: Various quirks for the Droidian flavour of Waydroid
  This package provides various quriks for the Droidian flavour
  of Waydroid.
 
+Package: droidian-quirks-plamo-wf
+Architecture: all
+Depends: plasma-mobile-wf-config-hwcomposer
+Description: Quirk to install necessary env vars for plasma-mobile-wf.
+
 Package: droidian-quirks-api28
 Architecture: all
 Depends: libgbinder
